@@ -1,1 +1,1 @@
-# ml-coure
+### Machine Learning Zoomcamp 2024 Cohort
