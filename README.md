@@ -3,4 +3,4 @@
 `Homeworks`
 
 [Homework 1](module_1/nazmul_homework_1.ipynb)
-[Homework 1](module_2/nazmul_homework_2.ipynb)
+[Homework 2](module_2/nazmul_homework_2.ipynb)
