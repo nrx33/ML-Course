@@ -1,0 +1,6 @@
+# run server local
+pipenv run gunicorn -w 4 -b 0.0.0.0:8000 app:app
+
+# run server docker
+docker run -p 8001:8000 my-flask-app
+
